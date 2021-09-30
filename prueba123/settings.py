@@ -87,10 +87,10 @@ WSGI_APPLICATION = 'prueba123.wsgi.application'
 DATABASES = {
             'default': {
             'ENGINE': 'django.db.backends.postgresql_psycopg2',
-            'NAME': 'ddg63gdd2go5uh',
-            'USER': 'sqkwkzgfiakydj',
-            'PASSWORD': '265ad51511be12d91bbdd7bd4d7c3c5ef5212287b8f47a04c5e5bff3c6eba1c6',
-            'HOST': 'ec2-54-87-112-29.compute-1.amazonaws.com', #localhost 127.0.0.0 
+            'NAME': 'dacj6tamvhe3qh',
+            'USER': 'yimxxlwvsyzdyp',
+            'PASSWORD': '42671e43a942ef004270edc9ee04a1653a3aec85356696a3a5bb75a96f0c2684',
+            'HOST': 'ec2-44-194-201-94.compute-1.amazonaws.com', #localhost 127.0.0.0 
             'PORT': '5432', #5432 postressql
         }
     }
